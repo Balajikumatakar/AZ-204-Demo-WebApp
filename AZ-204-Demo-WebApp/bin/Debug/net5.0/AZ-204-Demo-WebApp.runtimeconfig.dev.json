@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ckumatb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ckumatb\\.nuget\\packages"
+    ]
+  }
+}
