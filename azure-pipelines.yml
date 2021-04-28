@@ -38,12 +38,9 @@ steps:
     configuration: '$(buildConfiguration)'
 
 resources:
-  pipelines: [ pipeline ]  
-  builds: [ build ]
-  repositories: [ repository ]
-  containers: [ container ]
-  packages: [ package ]
+  pipelines:'pipeline' 
+  builds: 'build'
+  repositories: 'repository'
+  containers: 'container'
+  packages: 'package'
 
-
-resources.triggeringAlias
-resources.triggeringCategory
